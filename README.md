@@ -1,4 +1,4 @@
 # sum-Ist
 first one repo
 <br>
-author- sumit chaudhary
+author- sumit chaudhary c
